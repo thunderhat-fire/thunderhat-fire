@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thunderhat-fire
 - 👀 I’m interested in ...music platforms and software
-- 🌱 I’m currently learning ...html, css, js
+- 🌱 I’m currently learning ...html, css, js, solana, react, node
 - 💞️ I’m looking to collaborate on ...my projects
 - 📫 How to reach me ...admin@xtransit.uk
 
